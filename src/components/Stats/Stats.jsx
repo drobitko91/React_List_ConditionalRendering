@@ -7,26 +7,26 @@ function Stats() {
   const stats = [
     {
       id: 1,
-      icon: "blue",
+      icon: "pink",
       title: "Text 1",
       value: "15",
     },
     {
       id: 2,
-      icon: "orange",
+      icon: "yellow",
       title: "Text 2",
       value: "323",
     },
     {
       id: 3,
-      icon: "red",
+      icon: "purple",
       title: "Text 3",
       value: "54",
       dropdown: <DropdownList />,
     },
     {
       id: 4,
-      icon: "green",
+      icon: "lightblue",
       title: "Text 4",
       value: "12",
       dropdown: <Users />,
