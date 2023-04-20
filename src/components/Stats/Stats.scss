@@ -1,0 +1,10 @@
+.stats {
+  grid-area: stats;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: start;
+  grid-gap: 20px;
+  padding-right: 15px;
+  position: absolute;
+  width: 100%;
+}

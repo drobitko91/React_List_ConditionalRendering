@@ -1,0 +1,20 @@
+.hero-section {
+  grid-area: hero;
+  position: absolute;
+  top: 30px;
+
+
+  .hero-img {
+    margin-bottom: 20px;
+  }
+
+  .hero-info {
+    width: 50%;
+    margin-bottom: 50px;
+
+    .title {
+      font-size: 30px;
+      margin-bottom: 20px;
+    }
+  }
+}

@@ -1,0 +1,23 @@
+.stats__dropdown-users {
+  list-style: none;
+  border-radius: 5px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.15) 2px 2px 3px;
+
+  li {
+    margin-bottom: 25px;
+    display: flex;
+    gap: 20px;
+
+    .user {
+      width: 25px;
+      height: 25px;
+    }
+
+    .user-name {
+      font-size: 20px;
+      color: rgb(47, 150, 15);
+    }
+  }
+}

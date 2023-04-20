@@ -1,0 +1,38 @@
+.header {
+  font-size: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 60px;
+  background: rgb(71, 58, 156);
+  color: #fff;
+  grid-area: header;
+
+  .burger {
+    cursor: pointer;
+
+    &-img {
+      margin-left: 20px;
+      width: 25px;
+      height: 25px;
+      fill: #fff;
+    }
+  }
+
+  .icons {
+
+    .chevron {
+      width: 28px;
+      height: 28px;
+      margin: 0 15px;
+      cursor: pointer;
+    }
+
+    .user {
+      width: 28px;
+      height: 28px;
+      margin: 0 20px;
+      cursor: pointer;
+    }
+  }
+}

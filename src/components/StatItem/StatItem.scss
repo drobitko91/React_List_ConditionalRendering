@@ -1,0 +1,13 @@
+.stat-item {
+  display: flex;
+  gap: 18px;
+  padding: 18px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 3px 3px 3px;
+
+  .stats-name {
+    font-size: 20px;
+    color: rgb(124, 111, 111);
+  }
+}
