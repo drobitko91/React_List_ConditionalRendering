@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_List_ConditionalRendering/static/css/main.65d44096.css",
+    "main.js": "/React_List_ConditionalRendering/static/js/main.0bd70920.js",
+    "static/media/mit.jpg": "/React_List_ConditionalRendering/static/media/mit.4b27ba05fcb28edc887f.jpg",
+    "static/media/dashboard.svg": "/React_List_ConditionalRendering/static/media/dashboard.4e49be511904744d9c420a72caa8c6a0.svg",
+    "static/media/sales.svg": "/React_List_ConditionalRendering/static/media/sales.ca266c4ed15c3c63ae6a1a71f957c342.svg",
+    "static/media/reviews.svg": "/React_List_ConditionalRendering/static/media/reviews.be719bfce0740ec56868d44f9df9257e.svg",
+    "static/media/user2.svg": "/React_List_ConditionalRendering/static/media/user2.662867dfdf7b5bd92ae9f2dcd1d21b44.svg",
+    "static/media/library.svg": "/React_List_ConditionalRendering/static/media/library.d3a311efc6c3ec4f2f4a795d9f658480.svg",
+    "static/media/menu.svg": "/React_List_ConditionalRendering/static/media/menu.4e46d3d7694dc0e931127e3bf02420f3.svg",
+    "static/media/user.svg": "/React_List_ConditionalRendering/static/media/user.7dec987580e108bbd89eba900bd7ddaa.svg",
+    "static/media/users.svg": "/React_List_ConditionalRendering/static/media/users.4cc968853845991527b826310d47b432.svg",
+    "static/media/chevron.svg": "/React_List_ConditionalRendering/static/media/chevron.b07babea44cbdf0b796d87e9ff8b2e86.svg",
+    "index.html": "/React_List_ConditionalRendering/index.html",
+    "main.65d44096.css.map": "/React_List_ConditionalRendering/static/css/main.65d44096.css.map",
+    "main.0bd70920.js.map": "/React_List_ConditionalRendering/static/js/main.0bd70920.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d44096.css",
+    "static/js/main.0bd70920.js"
+  ]
+}
